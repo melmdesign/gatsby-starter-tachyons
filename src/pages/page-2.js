@@ -3,9 +3,9 @@ import { Link } from "gatsby"
 
 const SecondPage = () => (
   <div>
-    <h1 className="fw5 sans-serif">Hi from the second page</h1>
-    <p>Welcome to page 2</p>
-    <Link to="/">Go back to the homepage</Link>
+    <h1 className="f1 lh-title">Work from the last 2 years</h1>
+    <p>Here you'll find primarily digital product design work.</p>
+    <Link to="/">Back to front page</Link>
   </div>
 )
 
